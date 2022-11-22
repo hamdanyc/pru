@@ -1,0 +1,95 @@
+---
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE,
+	comment = NA
+)
+load("SeriSetia.RData")
+library(dplyr)
+
+```
+
+**MEMO**
+                                        
+___
+
+Daripada: Ketua Pengarah Rekod dan Pencen
+
+___
+
+Kepada: PAT
+
+___
+
+Salinan Kepada: AKS PA
+
+___
+
+Rujuk: JRP.ICT.100-21/1/4
+
+___
+
+
+**MAKLUMAT PILIHAN RAYA KECIL(PRK) DUN SERI SETIA**
+
+@.  Untuk maklumat YBhg Tan Sri, Dato' Seri Panglima. PRK DUN Seri Setia akan dilaksanakan mengikut ketetapan berikut:
+
+    a.  Tarikh Penamaan Calon: **18 Ogos 18**.
+    
+    b.  Tarikh Pengundian Awal: **4 Sep 18**.
+    
+    c.  Tarikh Pengundian Awam: **8 Sep 18**.
+    
+@.  Jumlah Pengundi Tidak Hadir (PTH) yang terlibat adalah **`r nrow(prk.SeriSetia)`** iaitu tentera (**`r table(prk.SeriSetia$KATEGORI)[2]`**) dan pasangan (**`r table(prk.SeriSetia$KATEGORI)[1]`**). Penyata PTH mengikut pasukan dan kategori (Tentera/Pasangan) adalah:
+
+```{r by psk, echo=FALSE}
+# Stat Mengikut Psk
+prk.SeriSetia %>%
+  select("Pasukan"=UNDI_LOKALITI,KATEGORI) %>% 
+  table() %>%
+  addmargins()
+```
+
+@.  Penyata PTH mengikut status dan kategori adalah:
+```{r Kategori, echo=FALSE}
+prk.SeriSetia %>%
+  select("Ten/Psg"=KATEGORI,"Status"=undi_status) %>% 
+  table() %>% 
+  addmargins()
+```
+@.  Penyata PTH mengikut pasukan dan status adalah:
+
+```{r by status, echo=FALSE}
+# Stat Mengikut Psk
+prk.SeriSetia %>%
+  select("Pasukan"=UNDI_LOKALITI,"Status"=undi_status) %>% 
+  table() %>% 
+  addmargins()
+```
+@.  Penyata mengikut status **Latihan Peralihan, PLK, Tamat Perkhidmatan** dan **THTC** mengikut Negeri:
+
+```{r prk, echo=FALSE}
+# Stat Bukan Kekal
+prk.SeriSetia %>%
+  filter(undi_status != "KEKAL") %>% 
+  select("Negeri"=BARU_NEGERI,"Status"=undi_status) %>% 
+  table() %>% 
+  addmargins()
+```
+
+@.  Sekian, terima kasih.
+
+
+Tarikh:    Ogos 18  
+  
+
+**DATO' NAZRI ABU BAKAR**   
+Brig Jen

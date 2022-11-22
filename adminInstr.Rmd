@@ -1,0 +1,107 @@
+---
+title: "Arahan Pentadbiran PRU-14"
+author: "Kol Hamdan Yaccob"
+date: "21 Disember 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Markas Angkatan Tentera Malaysia
+Bahagian Perkhidmatan Anggota
+
+Jabatan Arah Rekod dan Pencen	
+Kementerian Pertahanan
+Jalan Padang Tembak
+50634 KUALA LUMPUR
+
+Tel  :  03-20712390
+Faks: 03-26926093
+    	 Sep 2012
+
+MATM/BPA-JRP/PILIHANRAYA/PRU13 (  17   )
+
+Lihat Agihan
+                     
+*ARAHAN PENTADBIRAN PELAKSANAAN PILIHAN RAYA UMUM KE-13*
+*BAGI ANGGOTA TENTERA DAN PASANGAN SEBAGAI* 
+*PEMILIH TIDAK HADIR* 
+
+Rujuk:
+
+A.	Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) (Pindaan) (No.2) 2012 
+berkuat kuasa 30 April 2012.
+B.	Peraturan-Peraturan Pilihan Raya (Pengundian Pos) (Pindaan) 2012 
+berkuat kuasa 30 April 2012.
+C.	Peraturan-Peraturan Pilihan Raya (Pengundian Pos) 2003 berkuat kuasa 16 Jun 2003.
+D.	Peraturan-Peraturan Pilihan Raya (Pendaftaran Pemilih) 2002 
+berkuat kuasa 16 Julai 2002.
+E.	Mesyuarat JPP ke-325 pada 16 Jul 1999.
+F.	Cabutan Minit Mesyuarat MAT ke-265 bersidang pada 11 Dis 1987.
+G.	PMAT Bilangan 3 tahun 1972.
+
+#### PENDAHULUAN
+
+1.	 Adalah dimaklumkan bahawa akan terdapat beberapa perubahan dari segi perlaksanaan Pilihan Raya Umum (PRU) ke-13 bagi Pengundi Tidak Hadir (PTH) ATM. Perubahan ini melibatkan dua proses pengundian berbeza yang dikategorikan sebagai pengundian awal dan undi pos.
+
+2.	Pengundian awal adalah suatu proses di mana anggota perlu hadir untuk mengundi pada satu tarikh dan masa yang lebih awal daripada hari mengundi yang ditetapkan bagi semua rakyat Malaysia. Tempoh mengundi bagi kaedah ini telah ditetapkan hanya SATU HARI sahaja. Sementara undi pos pula adalah kaedah pengundian seperti mana yang dilaksanakan selama ini.
+
+3.	Oleh itu, di dalam perlaksanaan PRU ke-13 akan datang, pengundi ATM akan terbahagi kepada dua kategori pengundi seperti berikut:
+
+a.	*Pengundi Awal*.    Ini adalah untuk semua anggota tentera dan pasangan yang berdaftar di dalam lokaliti seperti mana yang diwartakan di dalam Daftar Pengundi Induk (DPI). Ini termasuk mereka yang telah bertukar keluar tetapi masih berdaftar di lokaliti tersebut dan mereka yang berkursus di dalam negara sepertimana di Rujuk A.
+
+b.	*Undi Pos*.	Ini adalah bagi anggota yang terlibat dengan tugas-tugas operasi dan latihan di dalam dan di luar negara, bertugas dalam misi PBB, bertugas atau berkursus di luar negara. Walau bagaimanapun pasangan adalah termasuk dalam kategori pengundi awal kecuali bagi mereka yang mengikuti suami berkursus atau bertugas di luar negara sepertimana di Rujuk B dan C. Mereka di dalam kategori ini perlu memohon untuk menjadi pengundi pos kepada SPR melalui prosedur yang di tetapkan sebelum hari mengundi. (Sila lihat perenggan 9 bagi prosedur tersebut)
+
+#### PELAKSANAAN
+
+4.	Bagi persiapan menghadapi PRU ke 13, beberapa tindakan perlu di ambil bagi memastikan perjalanan pilihan raya kali ini berjalan dengan lancar dan teratur. Ini melibatkan 3 fasa tindakan iaitu:
+
+a.	*SEBELUM PILIHAN RAYA*
+
+(1)	 Pendaftaran.	       Prosedur mengemas kini senarai daftar pemilih oleh SPR dibuat setiap suku tahun iaitu suku pertama mulai Jan hingga Mac, suku kedua mulai April hingga Jun dan seterusnya. Oleh itu setiap kali berlaku pertukaran masuk anggota ke pasukan perlulah didaftarkan sebagai pengundi di pasukan tersebut dengan segera. Prosedur pendaftaran adalah dengan mengisi Borang A dan ditandatangani oleh anggota (pemilih) serta disahkan oleh pegawai pasukan dan Penolong Pegawai Pendaftar SPR yang dilantik di formasi atau pasukan. Borang yang telah lengkap hendaklah dimajukan ke pejabat SPR negeri masing-masing. Borang A (salinan pemilih) hendaklah disimpan dengan rapi sebagai bukti apabila berlaku tuntutan atau bantahan. Bagi negeri yang tidak mempunyai Penolong Pegawai Pendaftar SPR yang dilantik dikehendaki berurusan terus dengan JRP bagi urusan pendaftaran sepertimana di Rujuk D, E dan F.
+
+(2)	Semak Pendaftaran.	     Sebelum sesuatu pendaftaran itu diwartakan di dalam suku tahun terlibat, nama-nama pendaftarn akan dipamerkan terlebih dahulu untuk semakan. Tarikh serta tempat pameran akan diberitahu secara rasmi dan pasukan perlu menyemak senarai daftar tersebut bagi memastikan pendaftaran yang telah dibuat berjaya. 
+
+(3)	Tuntutan Senarai Nama.  Sekiranya pendaftaran tidak berjaya walaupun setelah Borang A iaitu Borang Pendaftaran Pemilih telah dihantar kepada Pejabat Pilihan Raya Negeri, pasukan boleh membuat tuntutan kepada SPR agar senarai nama itu disemak semula dan dimasukkan ke dalam senarai pemilih bagi suku yang terlibat semasa proses pameran senarai nama sedang dilaksanakan.
+
+(4)	Bantahan Senarai Nama.   Bagi pasukan yang terlibat dengan bantahan senarai nama PTH yang telah didaftarkan, mereka yang terlibat akan melalui satu proses perbicaraan bagi menentusahkan pendaftaran masing-masing. Pasukan perlu menyediakan dokumen Borang A (Salinan Pemilih) bagi mereka yang terlibat semasa proses perbicaraan dijalankan.
+
+(5)	Penyata Pendaftaran.    Bagi memudahkan pasukan memantau status pendaftaran anggota dan pasangan di pasukan adalah disyorkan supaya menyediakan penyata pendaftaran yang dipecahkan mengikut kategori pemilih seperti di Kembaran A.
+
+
+
+(6)	Penyata Kesiapsiagaan PTH.   Pasukan juga perlu menyediakan penyata mengikut format di Kembaran B bagi mengenalpasti status mengundi anggota dan pasangan di pasukan masing-masing. Markas Formasi di peringkat Divisyen dan Briged perlu memastikan penyata kesiapsiagaan ini disediakan oleh setiap pasukan di bawah naungan.
+
+(7)	Pusat Mengundi dan Pegawai Penyelia Pusat Mengundi. Pemilihan Pusat Mengundi di dalam kem tentera bagi sesuatu Parlimen dan DUN perlu diwartakan oleh SPR manakala seorang Pegawai Penyelia Pusat Mengundi perlu dilantik dari kalangan anggota tentera bagi setiap tempat mengundi. Formasi diminta untuk menyediakan senarai tempat mengundi serta nama pegawai penyelia yang dilantik dan pasukan terlibat yang mengundi di tempat-tempat mengundi tersebut seperti Kembaran C.
+
+(8)	Memohon Sebagai Pengundi Pos.   Permohonan sebagai pengundi pos adalah dengan mengisi Borang 1 dan mengembalikannya ke pejabat Pegawai Pengurus di kawasan Parlimen/DUN masing-masing dalam tempoh 3 hari mulai dari hari penamaan calon sepertimana di Rujuk A dan B. Mereka yang layak mengundi secara pos adalah seperti berikut:
+
+Anggota yang terlibat dalam operasi.
+Anggota yang bertugas di luar negara.
+Anggota yang menjalani latihan di luar negara.
+Anggota yang berkursus di luar negara.
+Pasangan yang mengikuti anggota dan tinggal bersama anggota di luar negara semasa tempoh pilihanraya.
+
+
+b.	SEMASA PILIHAN RAYA.
+
+(1)	Penyata Kesiapsiagaan PTH Terkini.   Markas Formasi di peringkat Divisyen dan Briged perlu memastikan penyata kesiapsiagaan pemilih yang terkini disediakan oleh setiap pasukan bawah naungan. Ini adalah bertujuan untuk memantau kedudukan setiap pengundi yang berdaftar di setiap pasukan supaya melaksanakan tanggungjawab mereka untuk mengundi. Dalam masa yang sama penyata ini akan digunakan sebagai laporan yang perlu dimajukan ke JRP mengenai kedudukan mengundi di pasukan masing-masing,.
+
+(2)	Hari Mengundi Awal.  Hari untuk pengundian awal telah ditetapkan SATU HARI sahaja. Pegawai Memerintah dan Pegawai Pemerintah perlu memastikan anggota tentera dan pasangan yang terlibat keluar untuk mengundi ke tempat-tempat yang telah diwartakan sebagai tempat mengundi mulai 0800H sehingga 1700H (tamat pada 1900H bagi sesetengah tempat). Bagi anggota yang masih lagi berdaftar di pasukan lama, mereka ini hendaklah diuruskan pergerakan mereka ke tempat mereka berdaftar supaya dapat melaksanakan tanggungjawab mereka untuk mengundi. 
+
+(3)	Penghantaran Undi Pos.  Bagi pasukan di mana terdapat anggotanya yang terlibat sebagai undi pos, Sampul Keutamaan Kertas Undi Pos (SKKUP) mereka hendaklah diperolehi dari Pejabat Pilihan Raya Negeri. Pasukan juga adalah bertanggungjawab untuk menghantar SKKUP kepada anggota tentera yang terlibat di dalam kawasan operasi yang telah ditetapkan dan dipulangkan semula kepada Pegawai Pengurus Pilihan Raya Kawasan (PPPRK) tidak lewat dari 1700H pada hari pilihan raya/pengundian umum.
+
+(4)	Anggota Berkursus/Latihan Peralihan.  Anggota yang sedang berkursus atau yang sedang menjalani Latihan Peralihan adalah dikategorikan sebagai pengundi awal. Oleh itu mereka perlu pulang ke tempat di mana mereka berdaftar untuk mengundi. Pusat-pusat latihan perlu mengenalpasti status pendaftaran penuntut masing-masing serta melepaskan mereka ini balik ke pasukan masing-masing untuk mengundi. Arahan lanjut mengenai perkara ini akan dikeluarkan.
+
+(5)	Misi PBB/ATB.  Anggota yang terlibat di bawah misi PBB dan Ops Pasir adalah dikategorikan sebagai undi pos. JRP dengan bantuan Markas Angkatan Bersama (MAB) perlu mengenalpasti anggota yang terlibat dan mendaftar mereka sebagai pengundi pos mengikut prosedur yang ditetapkan. JRP akan mengumpul SKKUP mereka dari pasukan masing-masing dan urusan penghantaran akan dikoordinasikan bersama MAB.
+
+c.	SELEPAS PILIHAN RAYA
+
+Penyata Pengundi. Sebagai maklumat awal, pasukan dikehendaki memajukan penyata pegundi sebaik sahaja proses pengundian awal selesai. Format laporan seperti di Kembaran D. 
+
+Laporan Pelaksanaan Pilihan Raya Umum Ke-13.   Markas Formasi peringkat Divisyen dan Briged perlu memajukan laporan ini dalam masa 7 hari setelah tamat hari mengundi. Format laporan adalah seperti di Kembaran E.
+
+(3)	Laporan Kerosakan. Laporan kerosakan tempat mengundi bukan disebabkan kecuaian boleh dimajukan terus kepada Pejabat Pilihan Raya Negeri untuk tuntutan kerosakan hanya sekiranya kerosakan tersebut bukan disebabkan oleh kecuaian anggota pasukan berkenaan atau kakitangan pusat pengundian tersebut.
+

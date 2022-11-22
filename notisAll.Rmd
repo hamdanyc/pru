@@ -1,0 +1,47 @@
+---
+output: html_document
+reference_docx: mystyles.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+```{r dataframe}
+# Packages
+library(knitr)
+library(rmarkdown)
+library(dplyr)
+
+vet.df <- data.frame(kp=vet$IC, nama=vet$Nama, alamat1=vet$ALAMAT1, alamat2=vet$ALAMAT2, alamat3=vet$ALAMAT3,
+                      psk= vet$NamaLokaliti, parlimen = vet$NamaParlimen, dun = vet$NamaDUN, dm = vet$NamaDM,
+                      negeri = vet$Negeri,stringsAsFactors=FALSE)
+
+vet.info <- vet.df[1:5,]
+
+for (i in 1:nrow(vet.info){
+
+`r paste(vet.info$nama[i], "(KP: ", vet.info$kp[i],")", "\n", sep=" ")`
+`r paste(vet.info$alamat1[i], "\n")`
+`r paste(vet.info$alamat2[i], "\n")`
+`r vet.info$alamat3[i]`
+
+**KEHADIRAN PENGUNDI AWAL DAN MENDAFTAR PENGUNDI AWAM**
+Rujuk:
+
+A.	Senarai Daftar Pemilih Induk Suku Tahun Ke-Empat bertarikh 20 Feb 18.
+B.	Peraturan-peraturan Pilihan Raya (Pendaftaran Pemilih) 2002.  
+1.  Adalah dimaklumkan sebagaimana di rujuk A, Dato'/Tuan/Puan disenaraikan sebagai **Pengundi Awal** Angkatan Tentera Malaysia (ATM) seperti dibutiran;
+    a.  Lokaliti: **`r vet.info$psk[i]`**.
+    b.  Alamat	: **`r vet.info$alamat_psk[i]`**.
+    c.  Parlimen/DUN: **`r paste(vet.info$parlimen[i], vet.info$dun[i], sep = "/")`**.
+    d.  Daerah Mengundi: **`r vet.info$dm[i]`**.
+    e.  Negeri: **`r vet.info$negeri[i]`**.  
+<p class="justify">2.	Justeru, mohon Dato'/Tuan/Puan hadir di alamat yang dinyatakan semasa **Pengundian Awal** pada **tarikh dan masa** yang akan diumumkan oleh SPR ketika PRU-14. Dato'/Tuan/Puan juga dinasihatkan untuk menyemak pusat mengundi melalui portal SPR di alamat sesawang <https://pengundi.spr.gov.my/> apabila parlimen dibubarkan untuk maklumat terkini.</p>
+<p class="justify">3.	Selaras keperluan di Rujuk B, Dato'/Tuan/Puan adalah dinasihatkan **mendaftar semula sebagai pengundi awam** di mana-mana **pejabat pos** yang berdekatan atau **pejabat pilihan raya negeri**. Mohon abaikan keperluan di perenggan 3, sekiranya Dato'/Tuan/Puan telah mendaftar sebelum ini.</p>  
+4.	Sila hubungi kami sekiranya ingin mendapatkan maklumat lanjut. 
+    a.  **Jabatan Arah Rekod dan Pencen**
+    b.  Tel: **03-20712360**
+    c.  Email: **sprjrp@gmail.com**
+5.	Sekian, terima kasih. Surat ini adalah cetakan komputer, tandatangan tidak diperlukan.
+}
